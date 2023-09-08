@@ -1,1 +1,0 @@
-First repository of C programming
